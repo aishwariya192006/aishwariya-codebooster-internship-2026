@@ -1,5 +1,0 @@
-crewai[google-genai]
-crewai-tools
-groq
-litellm
-python-dotenv
